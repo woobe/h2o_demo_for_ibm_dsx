@@ -30,8 +30,8 @@ if ((row_h2o == 0) | (ver_h2o != "3.10.5.1")) {
 # Install Other R Packages
 # ------------------------------------------------------------------------------
 
-if (!require(data.table)) installed.packages("data.table")
-if (!require(plotly)) installed.packages("plotly")
-if (!require(shiny)) installed.packages("shiny")
-if (!require(shinydashboard)) installed.packages("shinydashboard")
-if (!require(DT)) installed.packages("DT")
+if (!require(data.table)) install.packages("data.table")
+if (!require(plotly)) install.packages("plotly")
+if (!require(shiny)) install.packages("shiny")
+if (!require(shinydashboard)) install.packages("shinydashboard")
+if (!require(DT)) install.packages("DT")
