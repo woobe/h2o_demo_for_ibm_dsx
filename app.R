@@ -88,7 +88,7 @@ ui <- dashboardPage(
   ## App Title
   ## ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-  dashboardHeader(title = "H2O Shiny Demo"),
+  dashboardHeader(title = "H2O and IBM DSX"),
 
   ## ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
   ## Sidebar content
